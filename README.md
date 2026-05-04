@@ -78,7 +78,7 @@ Tech Stack
 **Contact Me**
 
 * 📧 Email: shivrajsable
-* 💼 LinkedIn: add-your-link
+* 💼 LinkedIn: [add-your-link](https://www.linkedin.com/in/shivraj-sable-b31b47274/)
 
 ---
 
