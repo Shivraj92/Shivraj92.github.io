@@ -3,16 +3,16 @@
  **IoT & Data Enthusiast | Python Developer**
  Mumbai, India
 
-🔬 Building real-world solutions using **IoT, Data Analysis, and Automation**
+Building real-world solutions using **IoT, Data Analysis, and Automation**
 
 ---
 
 About Me
 
-* 🎓 MSc Student (Engineering/Science Background)
-* 🔧 Passionate about IoT systems, data-driven applications, and automation
-* 📊 Skilled in Python, data analysis, and system-level problem solving
-* 🚀 Focused on building practical and impactful tech solutions
+*  MSc Student (Engineering/Science Background)
+*  Passionate about IoT systems, data-driven applications, and automation
+*  Skilled in Python, data analysis, and system-level problem solving
+*  Focused on building practical and impactful tech solutions
 
 ---
 
